@@ -1,0 +1,7 @@
+{
+  "name": "SkillLoop",
+  "description": "A campus-exclusive skill exchange platform where students trade knowledge for points. Features AI-powered mentor matching and session management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
